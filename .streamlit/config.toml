@@ -1,0 +1,10 @@
+[theme]
+# Matches the primary swirling deep blue/teal background
+primaryColor = "#2A7B9B" 
+# Deep oceanic navy for the main app background
+backgroundColor = "#0A192F" 
+# Slightly lighter navy for the sidebar to create depth
+secondaryBackgroundColor = "#112240" 
+# The crisp, textured white of the vascular network
+textColor = "#F8F9FA" 
+font = "sans serif"
